@@ -1,0 +1,44 @@
+# Verificar versão do .NET
+
+dotnet --version
+
+
+# Criar pasta do projeto
+
+mkdir MeuProjetoAspNet
+cd MeuProjetoAspNet
+
+
+# Criar projeto ASP.NET Web API
+
+dotnet new webapi
+
+
+# OU criar projeto com nome
+
+dotnet new webapi -n MinhaApi
+cd MinhaApi
+
+
+# Abrir o projeto no VS Code
+
+code .
+
+
+# Rodar o projeto
+
+dotnet run
+
+
+# Rodar com hot reload
+
+dotnet watch run
+
+# Criar um controller Web API
+dotnet new controller -n ProdutoController -api
+
+
+# Listar templates disponíveis
+
+dotnet new list
+
