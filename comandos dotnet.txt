@@ -42,3 +42,11 @@ dotnet new controller -n ProdutoController -api
 
 dotnet new list
 
+
+
+
+
+
+# Criar migrations
+
+Add-Migration [MigrationName]
