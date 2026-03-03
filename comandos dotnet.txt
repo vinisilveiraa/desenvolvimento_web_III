@@ -2,14 +2,19 @@
 
 dotnet --version
 
----------------------------------
+===============================
+	PROJETO INICIAL	
+===============================
 # Criar pasta do projeto
 
 mkdir MeuProjetoAspNet
 cd MeuProjetoAspNet
+
+
 # Criar projeto ASP.NET Web API
 
 dotnet new webapi
+
 
 # OU criar projeto com nome
 
@@ -45,36 +50,33 @@ dotnet new list
 
 
 
-==============================
-	  MIGRATIONS
-==============================
+==========================
+	MIGRATIONS
+==========================
 # Criar migrations
 
 Add-Migration [MigrationName]
 
 
-# Atualizar Banco/Criar
+# Atualizar/Criar Banco
 
 Update-Database
 
 
 
 
-==============================
-	 SCAFFOLDING
-==============================
-
-==! Faca caso versao esteja diferente / varias versoes instaladas !==
-
+===========================
+	SCAFFOLDING
+===========================
 # Verificar ferramentas intaladas globalmente (se nao aparecer usara do seu projeto)
 
 dotnet tool list -g
 
 
-# Criar Manifesto (tem que entrar na pasta do projeto)
+# Criar Manifesto (tem que entrar na pasta do projeto PASTA PÓS SLN E .VS - EX: ./desenvolvimento_web_III/SistemaAcademico/SistemaAcademico) 
 
 dotnet new tool-manifest -o ./caminho/da/pasta
-
+-- se ja tiver encaminhado (cd) dar ./
 
 #Instalar ferramenta local
 
@@ -88,6 +90,7 @@ dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
 
 # Na pasta do projeto:
 dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL] -dc [SEU_DBCONTEXT] --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
+	- dbcontext esta em DATA
 
 -----------------------------------------------------------------------------------------
 ==! SE DER ERRO DENOVO !==
@@ -101,10 +104,14 @@ dotnet nuget locals all --clear
 
 dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
 
+
 # Tentar criar
 dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL] -dc [SEU_DBCONTEXT] --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
 
 -- se nao ir sla
 
 
+
+
+==========================================================
 

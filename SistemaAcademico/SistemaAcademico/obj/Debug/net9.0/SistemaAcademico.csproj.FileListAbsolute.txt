@@ -661,3 +661,4 @@ C:\Users\0201392511018\desenvolvimento_web_III\SistemaAcademico\SistemaAcademico
 C:\Users\0201392511018\desenvolvimento_web_III\SistemaAcademico\SistemaAcademico\obj\Debug\net9.0\SistemaAcademico.pdb
 C:\Users\0201392511018\desenvolvimento_web_III\SistemaAcademico\SistemaAcademico\obj\Debug\net9.0\SistemaAcademico.genruntimeconfig.cache
 C:\Users\0201392511018\desenvolvimento_web_III\SistemaAcademico\SistemaAcademico\obj\Debug\net9.0\ref\SistemaAcademico.dll
+C:\Users\0201392511018\desenvolvimento_web_III\SistemaAcademico\SistemaAcademico\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
