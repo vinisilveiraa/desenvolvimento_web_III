@@ -2,17 +2,14 @@
 
 dotnet --version
 
-
+---------------------------------
 # Criar pasta do projeto
 
 mkdir MeuProjetoAspNet
 cd MeuProjetoAspNet
-
-
 # Criar projeto ASP.NET Web API
 
 dotnet new webapi
-
 
 # OU criar projeto com nome
 
@@ -20,6 +17,7 @@ dotnet new webapi -n MinhaApi
 cd MinhaApi
 
 
+---------------------------------
 # Abrir o projeto no VS Code
 
 code .
@@ -34,7 +32,9 @@ dotnet run
 
 dotnet watch run
 
+
 # Criar um controller Web API
+
 dotnet new controller -n ProdutoController -api
 
 
@@ -45,8 +45,66 @@ dotnet new list
 
 
 
-
-
+==============================
+	  MIGRATIONS
+==============================
 # Criar migrations
 
 Add-Migration [MigrationName]
+
+
+# Atualizar Banco/Criar
+
+Update-Database
+
+
+
+
+==============================
+	 SCAFFOLDING
+==============================
+
+==! Faca caso versao esteja diferente / varias versoes instaladas !==
+
+# Verificar ferramentas intaladas globalmente (se nao aparecer usara do seu projeto)
+
+dotnet tool list -g
+
+
+# Criar Manifesto (tem que entrar na pasta do projeto)
+
+dotnet new tool-manifest -o ./caminho/da/pasta
+
+
+#Instalar ferramenta local
+
+dotnet tool install Microsoft.VisualStudio.Web.CodeGeneration.Design --version 9.0.0
+dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
+
+-----------------------------------------------------------------------------------------
+==! SE DER ERRO: FAZER PELO CONSOLE !==
+
+# Gerar Controllers e views console
+
+# Na pasta do projeto:
+dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL] -dc [SEU_DBCONTEXT] --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
+
+-----------------------------------------------------------------------------------------
+==! SE DER ERRO DENOVO !==
+
+# limpa cache
+
+dotnet nuget locals all --clear 
+
+
+# reinstalar 
+
+dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
+
+# Tentar criar
+dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL] -dc [SEU_DBCONTEXT] --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
+
+-- se nao ir sla
+
+
+
