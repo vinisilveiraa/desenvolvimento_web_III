@@ -48,7 +48,7 @@ namespace SistemaAcademico.Controllers
         // GET: Disciplinas/Create
         public IActionResult Create()
         {
-            ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "CursoId");
+            ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "Nome");
             return View();
         }
 
@@ -57,12 +57,21 @@ namespace SistemaAcademico.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("DisciplinaId,Nome,Semestre,CursoId")] Disciplina disciplina)
+        
+        // async permite usar metodos como await etc
+        // task promete uma tarefa a ser entregue
+        // iactionresult e para o metodo poder entregar qualquer coisa
+        // bind limita oq e entregue pela pagina
+        public async Task<IActionResult> Create([Bind("Nome,Semestre,CursoId")] Disciplina disciplina)
         {
+        // valida o estado dos elementos
             if (ModelState.IsValid)
             {
+                // se forem, disciplina a ser adicionada ao banco
                 _context.Add(disciplina);
+                // envia a alteracao ao banco
                 await _context.SaveChangesAsync();
+                // volta a view
                 return RedirectToAction(nameof(Index));
             }
             ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "CursoId", disciplina.CursoId);

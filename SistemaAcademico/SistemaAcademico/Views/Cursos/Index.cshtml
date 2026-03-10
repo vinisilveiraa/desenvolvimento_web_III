@@ -9,7 +9,7 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-striped table-hover">
     <thead>
         <tr>
             <th>
@@ -31,9 +31,9 @@
                 @Html.DisplayFor(modelItem => item.Vagas)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.CursoId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.CursoId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.CursoId">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.CursoId" class="btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.CursoId" class="btn-primary">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.CursoId" class="btn-danger">Delete</a>
             </td>
         </tr>
 }
