@@ -35,5 +35,7 @@ namespace VasosInteligentes.Data
         {
             get { return _database.GetCollection<Planta>("Planta"); }
         }
+
+        public object Vasos { get; internal set; }
     }
 }
