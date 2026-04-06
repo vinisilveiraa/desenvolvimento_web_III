@@ -17,6 +17,8 @@ namespace VasosInteligentes.Models
         [Display(Name = "Localização")]
         public string? Localizacao { get; set; }
 
+        public string? UsuarioId { get; set; }
+
         public List<Planta> PlantaList { get; set; } = new List<Planta>();
         // era pra ser PlantaRelacionada
     }

@@ -80,9 +80,11 @@ dotnet new tool-manifest -o ./caminho/da/pasta
 
 #Instalar ferramenta local
 
+dotnet tool install dotnet-aspnet-codegenerator
 dotnet tool install Microsoft.VisualStudio.Web.CodeGeneration.Design --version 9.0.0
-dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
 
+-- se o design não for :
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
 -----------------------------------------------------------------------------------------
 ==! SE DER ERRO: FAZER PELO CONSOLE !==
 
@@ -103,7 +105,11 @@ dotnet nuget locals all --clear
 # reinstalar 
 
 dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
 
+# tentar
+dotnet aspnet-codegenerator --help
+se funcionar funcionou
 
 # Tentar criar
 dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL] -dc [SEU_DBCONTEXT] --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
@@ -114,4 +120,16 @@ dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL]
 
 
 ==========================================================
+
+
+dotnet aspnet-codegenerator controller -name LivrosController -m Livro -dc ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
+
+
+===========================================================
+===================================
+	SCAFFOLDING - LOGIN
+===================================
+
+dotnet aspnet-codegenerator identity -dc SeuDbContext
+
 
