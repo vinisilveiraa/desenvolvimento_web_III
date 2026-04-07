@@ -1,5 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Web;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http.Connections;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using VasosInteligentes.Models;
@@ -10,13 +12,16 @@ namespace VasosInteligentes.Controllers
     {
         private UserManager<ApplicationUser> _userManager;
         private SignInManager<ApplicationUser> _signInManager;
+        private EmailService _emailService;
 
         public AccountsController(
             UserManager<ApplicationUser> userManager,
-            SignInManager<ApplicationUser> signInManager)
+            SignInManager<ApplicationUser> signInManager,
+            EmailService emailService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _emailService = emailService;
         }
 
         // LOGIN: GET
@@ -61,5 +66,42 @@ namespace VasosInteligentes.Controllers
         }
 
 
+
+        // FORGOT PASSWORD
+        // FORGOT - GET
+        public IActionResult ForgotPassword()
+        {
+            return View();
+        }
+
+        // FORGOT - POST
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(string email)
+        {
+            if (string.IsNullOrEmpty(email))
+            {
+                ModelState.AddModelError("", "Informe o e-mail");
+                return View();
+            }
+
+            ApplicationUser user = await _userManager.FindByEmailAsync(email);
+
+            if (user == null)
+            {
+                return RedirectToAction("ForgotPasswordConfirm");
+            }
+
+            // reparar o link para o envio do e-mail
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var encodeToken = HttpUtility.UrlEncode(token);
+            var callbackUrl = Url.Action("ResetPassword", "Accounts", 
+                new { userId = user.Id, token = encodeToken }, Request.Scheme);
+            var assunto = "Redefinição de senha";
+            var corpo = $"Clique no Link para redefinir sua senha <a href='{callbackUrl}> Redefinir Senha </a>";
+
+            // enviar email
+            await _emailService.SendEmailAsync(email, assunto, corpo);
+            return RedirectToAction("ForgotPasswordConfirm");
+        }
     }
 }

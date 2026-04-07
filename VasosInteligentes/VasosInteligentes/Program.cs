@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using VasosInteligentes.Data;
 using VasosInteligentes.Models;
 using VasosInteligentes.Seeds;
+using VasosInteligentes.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,9 +42,12 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>
 builder.Services.AddRazorPages();
 
 
+//configuracao envio de email
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+builder.Services.AddSingleton<EmailService>();
+
+
 var app = builder.Build();
-
-
 
 // Seeds
 using (var Scope = app.Services.CreateScope())
