@@ -3,6 +3,8 @@ using VasosInteligentes.Data;
 using VasosInteligentes.Models;
 using VasosInteligentes.Seeds;
 using VasosInteligentes.Services;
+using VasosInteligentes.Settings;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

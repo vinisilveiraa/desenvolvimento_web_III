@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Http.Connections;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using VasosInteligentes.Models;
+using VasosInteligentes.Services;
+using VasosInteligentes.ViewModel;
 
 namespace VasosInteligentes.Controllers
 {
@@ -94,8 +96,10 @@ namespace VasosInteligentes.Controllers
             // reparar o link para o envio do e-mail
             var token = await _userManager.GeneratePasswordResetTokenAsync(user);
             var encodeToken = HttpUtility.UrlEncode(token);
-            var callbackUrl = Url.Action("ResetPassword", "Accounts", 
+
+            var callbackUrl = Url.Action("ResetPassword", "Accounts",
                 new { userId = user.Id, token = encodeToken }, Request.Scheme);
+
             var assunto = "Redefinição de senha";
             var corpo = $"Clique no Link para redefinir sua senha <a href='{callbackUrl}> Redefinir Senha </a>";
 
@@ -103,5 +107,65 @@ namespace VasosInteligentes.Controllers
             await _emailService.SendEmailAsync(email, assunto, corpo);
             return RedirectToAction("ForgotPasswordConfirm");
         }
+        public IActionResult ForgotPasswordConfirm()
+        {
+            return View();
+        }
+
+        public IActionResult ResetPassword(string token, string userId)
+        {
+            if (token == null || token == "")
+            {
+                ModelState.AddModelError("", "Token Inválido");
+            }
+
+            var model = new ResetPasswordViewModel
+            {
+                Token = token,
+                UserId = userId
+            };
+
+            return View(model);
+        }
+
+        public IActionResult ResetPasswordConfirm()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ResetPassword(ResetPasswordViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            // pega user pelo id
+            var user = await _userManager.FindByIdAsync(model.UserId);
+
+            if (user == null)
+            {
+                return RedirectToAction("ResetPasswordConfirm");
+            }
+
+            // decodifica o token
+            var decodeToken = HttpUtility.UrlDecode(model.Token);
+
+            var result = await _userManager.ResetPasswordAsync(user, decodeToken, model.NewPassword);
+
+            if (result.Succeeded)
+            {
+                return RedirectToAction("ResetPasswordConfirm");
+            }
+
+            foreach(var error in result.Errors)
+            {
+                ModelState.AddModelError("", error.Description);
+            }
+
+            return View(model);
+        }
+
     }
 }

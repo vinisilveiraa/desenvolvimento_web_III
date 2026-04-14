@@ -659,3 +659,6 @@ C:\Fatec Estudos\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\obj
 C:\Fatec Estudos\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\0201392511018\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\AspNetCore.Identity.MongoDbCore.dll
 C:\Users\0201392511018\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDbGenericRepository.dll
+C:\Users\0201392511018\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\0201392511018\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MailKit.dll
+C:\Users\0201392511018\desenvolvimento_web_III\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MimeKit.dll

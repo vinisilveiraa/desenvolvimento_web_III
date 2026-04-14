@@ -2,6 +2,7 @@
 using MailKit.Net.Smtp;
 using MimeKit;
 using MimeKit.Text;
+using VasosInteligentes.Settings;
 
 namespace VasosInteligentes.Services
 {
@@ -10,7 +11,7 @@ namespace VasosInteligentes.Services
         private readonly EmailSettings _emailSettings;
         public EmailService(IOptions<EmailSettings> emailSettings)
         {
-            _emailSettings = emailSettings;
+            _emailSettings = emailSettings.Value;
         }
 
         // SendEmail
