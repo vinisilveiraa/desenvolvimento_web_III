@@ -65,6 +65,8 @@ using (var Scope = app.Services.CreateScope())
     }
 }
 
+// email / senha de administrador
+// admin@gmail.com - Adm@123
 
 
 // Configure the HTTP request pipeline.

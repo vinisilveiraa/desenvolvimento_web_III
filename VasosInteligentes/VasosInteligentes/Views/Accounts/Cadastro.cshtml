@@ -1,0 +1,19 @@
+﻿﻿
+    @{
+        ViewData["Title"] = "Cadastro";
+        Layout = "~/Views/Shared/_layout.cshtml";
+    }
+    <h1>Cadastro</h1>
+    <div class="text-danger " asp-validation-summary="All"></div>
+    <form asp-action="Cadastro">
+        <div class="form-group">
+            <label>E-mail</label>
+            <input type="email" name="email" class="form-control" />
+            <label>Senha</label>
+            <input type="password" name="password" class="form-control" />
+
+            <button type="submit" class="btn btn-primary mt-3">Enviar</button>
+        </div>
+    </form>
+
+    <p><a asp-controller="Accounts" asp-action="Login">Já possui uma conta? Faça login</a></p>

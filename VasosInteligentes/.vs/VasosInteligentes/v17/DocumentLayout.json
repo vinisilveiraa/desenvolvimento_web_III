@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\",
+  "WorkspaceRootPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\views\\accounts\\resetpasswordconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\accounts\\resetpasswordconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\seeds\\identityseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\seeds\\identityseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ResetPasswordConfirm.cshtml",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Views\\Accounts\\ResetPasswordConfirm.cshtml",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Accounts\\ResetPasswordConfirm.cshtml",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Views\\Accounts\\ResetPasswordConfirm.cshtml",
-              "RelativeToolTip": "VasosInteligentes\\Views\\Accounts\\ResetPasswordConfirm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T15:20:07.355Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Program.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "RelativeToolTip": "VasosInteligentes\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:48:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentitySeeds.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "RelativeToolTip": "VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:49:44.396Z",
               "EditorCaption": ""
             }
           ]
