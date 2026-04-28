@@ -168,40 +168,6 @@ namespace VasosInteligentes.Controllers
             return View(model);
         }
 
-        public IActionResult Cadastro()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> Cadastro(
-            [Required][EmailAddress] string email,
-            [Required] string password
-            )
-        {
-            if (ModelState.IsValid)
-            {
-                var user = new ApplicationUser()
-                {
-                    UserName = email,
-                    Email = email
-                };
-
-                var result = await _userManager.CreateAsync(user, password);
-
-                if (result.Succeeded)
-                {
-                    return RedirectToAction("Login");
-                }
-                foreach (var error in result.Errors)
-                {
-                    ModelState.AddModelError("", error.Description);
-
-                }
-            }
-            return View();
-        }
-
 
 
     } // class

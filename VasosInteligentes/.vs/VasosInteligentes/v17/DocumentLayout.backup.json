@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\",
+  "WorkspaceRootPath": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\seeds\\identityseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\seeds\\identityseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\viewmodel\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\viewmodel\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Program.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Program.cs",
-              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Program.cs",
-              "RelativeToolTip": "VasosInteligentes\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAhAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T18:48:03.784Z",
+              "WhenOpened": "2026-04-28T13:52:26.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IdentitySeeds.cs",
-              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Seeds\\IdentitySeeds.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Seeds\\IdentitySeeds.cs",
-              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Seeds\\IdentitySeeds.cs",
-              "RelativeToolTip": "VasosInteligentes\\Seeds\\IdentitySeeds.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wFwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T18:49:44.396Z",
+              "WhenOpened": "2026-04-28T13:49:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:49:48.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
+              "RelativeToolTip": "VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:48:25.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:47:57.576Z",
               "EditorCaption": ""
             }
           ]
