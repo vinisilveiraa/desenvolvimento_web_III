@@ -80,7 +80,7 @@ dotnet new tool-manifest -o ./caminho/da/pasta
 
 #Instalar ferramenta local
 
-dotnet tool install dotnet-aspnet-codegenerator
+dotnet tool install dotnet-aspnet-codegenerator --version 9.0.0
 dotnet tool install Microsoft.VisualStudio.Web.CodeGeneration.Design --version 9.0.0
 
 -- se o design não for :
@@ -126,6 +126,8 @@ dotnet aspnet-codegenerator controller -name LivrosController -m Livro -dc Appli
 
 
 ===========================================================
+
+
 ===================================
 	SCAFFOLDING - LOGIN
 ===================================
