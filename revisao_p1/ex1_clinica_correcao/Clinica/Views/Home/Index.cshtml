@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ProjetoClinica.Models.Clinica>
+
+@{
+    ViewData["Title"] = "Clínica";
+}
+
+<h1>Clínicas</h1>
+
+<p>
+    <a asp-controller="Clinicas" asp-action="Inserir" class="btn btn-primary">Nova Clínica</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Alarme)
+            </th>
+
+            <th>Ação</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                @if (item.Alarme)
+                {
+                    <td>
+                        <span class="fw-bold">Ligado</span>
+                    </td>
+                    <td>
+                        <form asp-controller="Clinicas" asp-action="AlterarAlarme" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <input type="hidden" name="alarme" value="false" />
+                            <button type="submit" class="btn btn-danger" style="vertical-align: baseline;">Desligar Alarme</button>
+                        </form>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <span class="fw-bold">Desligado</span>
+                    </td>
+                    
+                    <td>
+                        <form asp-controller="Clinicas" asp-action="AlterarAlarme" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <input type="hidden" name="alarme" value="true" />
+                            <button type="submit" class="btn btn-primary" style="vertical-align: baseline;">Ligar Alarme</button>
+                        </form>
+                    </td>
+                    
+                }
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+

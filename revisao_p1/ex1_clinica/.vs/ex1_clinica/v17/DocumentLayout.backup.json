@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\",
+  "WorkspaceRootPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\revisao_p1\\ex1_clinica\\ex1_clinica\\data\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|solutionrelative:ex1_clinica\\data\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\revisao_p1\\ex1_clinica\\ex1_clinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|solutionrelative:ex1_clinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\revisao_p1\\ex1_clinica\\ex1_clinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|solutionrelative:ex1_clinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\revisao_p1\\ex1_clinica\\ex1_clinica\\ex1_clinica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A886F481-74F8-459C-82A0-24AC804C6FAF}|ex1_clinica\\ex1_clinica.csproj|solutionrelative:ex1_clinica\\ex1_clinica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FakeContext.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\Data\\FakeContext.cs",
-              "RelativeDocumentMoniker": "ex1_clinica\\Data\\FakeContext.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\Data\\FakeContext.cs",
-              "RelativeToolTip": "ex1_clinica\\Data\\FakeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T14:45:37.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\appsettings.json",
-              "RelativeDocumentMoniker": "ex1_clinica\\appsettings.json",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\appsettings.json",
-              "RelativeToolTip": "ex1_clinica\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-28T14:37:46.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\Program.cs",
-              "RelativeDocumentMoniker": "ex1_clinica\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\Program.cs",
-              "RelativeToolTip": "ex1_clinica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T14:37:44.192Z",
+              "Title": "ex1_clinica",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\ex1_clinica.csproj",
+              "RelativeDocumentMoniker": "ex1_clinica\\ex1_clinica.csproj",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\revisao_p1\\ex1_clinica\\ex1_clinica\\ex1_clinica.csproj",
+              "RelativeToolTip": "ex1_clinica\\ex1_clinica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T18:39:02.794Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,212 @@
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\appsettings.Development.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\appsettings.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.staticwebassets.runtime.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.staticwebassets.endpoints.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.exe
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.deps.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.runtimeconfig.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ProjetoClinica.pdb
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\DnsClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\SharpCompress.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\Snappier.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\bin\Debug\net9.0\ZstdSharp.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.csproj.AssemblyReference.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.AssemblyInfoInputs.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.AssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.csproj.CoreCompileInputs.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.MvcApplicationPartsAssemblyInfo.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.RazorAssemblyInfo.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.RazorAssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\scopedcss\bundle\ProjetoClinica.styles.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\scopedcss\projectbundle\ProjetoClinica.bundle.scp.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\3s242bb9qr-b9sayid5wm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\r44gfsgbg3-61n19gt1b8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\nghc28lhp8-xtxxf3hu2r.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\1390895rxb-bqjiyaj88i.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\vff0q6oq7e-c2jlpeoesf.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\le1kjclopg-erw9l3u2r3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\5i1e1j14fp-aexeepp0ev.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\4dmdeslpw8-d7shbmvgxk.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\polm6981zb-ausgxo2sd3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\tm6kes1b5t-k8d9w2qqmf.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\8j99e1n1mn-cosvhxvwiu.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\nyove308sb-ub07r2b239.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\8jr4q20hsl-fvhpjtyr6v.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\30sm9iyeyk-b7pk76d08c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\hy2ybu3l3d-fsbi9cje9m.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\p2a9qj1nt8-rzd6atqjts.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\wvdjuptee1-ee0r1s7dh0.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\frd75mefyh-dxx9fxp4il.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\bx5q5xmqe7-jd9uben2k1.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\79py0f23wd-khv3u5hwcm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\ff3yidjjx9-r4e9w2rdcm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\p2sywpmtqo-lcd1t2u6c8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\5zijup7gt7-c2oey78nd0.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\gq1bqe0bus-tdbxkamptv.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\1in1wjhcut-j5mq2jizvt.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\cgantmw6s6-06098lyss8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\r5hfqteqkc-nvvlpmu67g.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\l9u0nxcb9j-s35ty4nyc5.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\o12muwr4mu-pj5nd1wqec.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\m0f1ucgnl3-46ein0sx1k.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\qqrvzvsmxl-v0zj4ognzu.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\aooyqt7537-37tfw0ft22.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\og4irof0rp-hrwsygsryq.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\xwvp7ajsp6-pk9g2wxc8p.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\ma4bjfty9q-ft3s53vfgj.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\9tgmfxvd14-6cfz1n2cew.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\h0pzu5bzxk-6pdc2jztkx.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\f0wpa6uhsl-493y06b0oq.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\1bdl7bn35f-iovd86k7lj.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\tyrt97xkx2-vr1egmr9el.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\5uhcn041hd-kbrnm935zg.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\3did9i0yxa-jj8uyg4cgr.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\fz95g3u91m-y7v9cxd14o.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\9jde2nonuf-notf2xhcfb.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\569rwoqq1i-h1s4sie4z3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\ww9t05bd6y-63fj8s7r0e.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\vanjpap7u4-0j3bgjxly4.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\nme0dj1j1v-47otxtyo56.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\lizmvrwumc-4v8eqarkd7.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\sz3dwidbef-356vix0kms.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\302fyeuwww-83jwlth58m.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\5lbkdw9dv0-mrlpezrjn3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\0ub9pluyma-lzl9nlhx6b.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\89c6xtep8t-ag7o75518u.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\trkoogkg5h-x0q3zqp4vz.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\acstdoxcdo-0i3buxo5is.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\bhnwvcj6id-o1o13a6vjx.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\hbalyu9cyc-ttgo8qnofa.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\jaaasm353t-2z0ns9nrw6.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\puee6gdeic-muycvpuwrr.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\nik7m8sji4-87fc7y1x7t.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\k6g97ke0d6-mlv21k5csn.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\hxujn3bknp-64iu9bq6jo.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\compressed\y88pkxp69o-64iu9bq6jo.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets.build.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets.development.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets\msbuild.ProjetoClinica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets\msbuild.ProjetoClinica.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjetoClinica.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoClinica.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjetoClinica.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets.pack.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoC.EAB1B5C9.Up2Date
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\refint\ProjetoClinica.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.pdb
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ProjetoClinica.genruntimeconfig.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Clinica\Clinica\obj\Debug\net9.0\ref\ProjetoClinica.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\appsettings.Development.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\appsettings.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.staticwebassets.runtime.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.staticwebassets.endpoints.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.exe
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.deps.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.runtimeconfig.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ProjetoClinica.pdb
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\DnsClient.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\SharpCompress.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\Snappier.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\bin\Debug\net9.0\ZstdSharp.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.csproj.AssemblyReference.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.AssemblyInfoInputs.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.AssemblyInfo.cs
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.csproj.CoreCompileInputs.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.MvcApplicationPartsAssemblyInfo.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.RazorAssemblyInfo.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.RazorAssemblyInfo.cs
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.sourcelink.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\scopedcss\bundle\ProjetoClinica.styles.css
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\scopedcss\projectbundle\ProjetoClinica.bundle.scp.css
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\3s242bb9qr-b9sayid5wm.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\r44gfsgbg3-61n19gt1b8.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\nghc28lhp8-xtxxf3hu2r.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\1390895rxb-bqjiyaj88i.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\vff0q6oq7e-c2jlpeoesf.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\le1kjclopg-erw9l3u2r3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\5i1e1j14fp-aexeepp0ev.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\4dmdeslpw8-d7shbmvgxk.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\polm6981zb-ausgxo2sd3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\tm6kes1b5t-k8d9w2qqmf.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\8j99e1n1mn-cosvhxvwiu.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\nyove308sb-ub07r2b239.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\8jr4q20hsl-fvhpjtyr6v.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\30sm9iyeyk-b7pk76d08c.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\hy2ybu3l3d-fsbi9cje9m.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\p2a9qj1nt8-rzd6atqjts.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\wvdjuptee1-ee0r1s7dh0.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\frd75mefyh-dxx9fxp4il.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\bx5q5xmqe7-jd9uben2k1.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\79py0f23wd-khv3u5hwcm.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\ff3yidjjx9-r4e9w2rdcm.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\p2sywpmtqo-lcd1t2u6c8.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\5zijup7gt7-c2oey78nd0.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\gq1bqe0bus-tdbxkamptv.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\1in1wjhcut-j5mq2jizvt.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\cgantmw6s6-06098lyss8.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\r5hfqteqkc-nvvlpmu67g.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\l9u0nxcb9j-s35ty4nyc5.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\o12muwr4mu-pj5nd1wqec.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\m0f1ucgnl3-46ein0sx1k.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\qqrvzvsmxl-v0zj4ognzu.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\aooyqt7537-37tfw0ft22.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\og4irof0rp-hrwsygsryq.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\xwvp7ajsp6-pk9g2wxc8p.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\ma4bjfty9q-ft3s53vfgj.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\9tgmfxvd14-6cfz1n2cew.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\h0pzu5bzxk-6pdc2jztkx.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\f0wpa6uhsl-493y06b0oq.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\1bdl7bn35f-iovd86k7lj.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\tyrt97xkx2-vr1egmr9el.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\5uhcn041hd-kbrnm935zg.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\3did9i0yxa-jj8uyg4cgr.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\fz95g3u91m-y7v9cxd14o.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\9jde2nonuf-notf2xhcfb.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\569rwoqq1i-h1s4sie4z3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\ww9t05bd6y-63fj8s7r0e.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\vanjpap7u4-0j3bgjxly4.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\nme0dj1j1v-47otxtyo56.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\lizmvrwumc-4v8eqarkd7.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\sz3dwidbef-356vix0kms.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\302fyeuwww-83jwlth58m.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\5lbkdw9dv0-mrlpezrjn3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\0ub9pluyma-lzl9nlhx6b.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\89c6xtep8t-ag7o75518u.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\trkoogkg5h-x0q3zqp4vz.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\acstdoxcdo-0i3buxo5is.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\bhnwvcj6id-o1o13a6vjx.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\hbalyu9cyc-ttgo8qnofa.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\jaaasm353t-2z0ns9nrw6.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\puee6gdeic-muycvpuwrr.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\nik7m8sji4-87fc7y1x7t.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\k6g97ke0d6-mlv21k5csn.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\hxujn3bknp-64iu9bq6jo.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\compressed\y88pkxp69o-64iu9bq6jo.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\staticwebassets.build.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\staticwebassets.development.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoC.EAB1B5C9.Up2Date
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\refint\ProjetoClinica.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.pdb
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ProjetoClinica.genruntimeconfig.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex1_clinica_correcao\Clinica\obj\Debug\net9.0\ref\ProjetoClinica.dll

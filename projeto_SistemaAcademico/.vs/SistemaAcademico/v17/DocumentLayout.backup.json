@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\SistemaAcademico\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EE84E932-9898-42B0-A7C5-5878F59FEA3B}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\sistemaacademico\\sistemaacademico\\views\\disciplinas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE84E932-9898-42B0-A7C5-5878F59FEA3B}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\views\\disciplinas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE84E932-9898-42B0-A7C5-5878F59FEA3B}|SistemaAcademico\\SistemaAcademico.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\sistemaacademico\\sistemaacademico\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE84E932-9898-42B0-A7C5-5878F59FEA3B}|SistemaAcademico\\SistemaAcademico.csproj|solutionrelative:sistemaacademico\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\SistemaAcademico\\SistemaAcademico\\Views\\Cursos\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaAcademico\\Views\\Cursos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\SistemaAcademico\\SistemaAcademico\\Views\\Cursos\\Index.cshtml",
-              "RelativeToolTip": "SistemaAcademico\\Views\\Cursos\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T13:39:12.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\SistemaAcademico\\SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\SistemaAcademico\\SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
-              "RelativeToolTip": "SistemaAcademico\\Views\\Disciplinas\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T13:34:28.351Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

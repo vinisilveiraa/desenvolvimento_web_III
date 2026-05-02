@@ -1,0 +1,993 @@
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.csproj.AssemblyReference.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.AssemblyInfoInputs.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.AssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.csproj.CoreCompileInputs.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.MvcApplicationPartsAssemblyInfo.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.RazorAssemblyInfo.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.RazorAssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\appsettings.Development.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\appsettings.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.staticwebassets.runtime.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.staticwebassets.endpoints.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.exe
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.deps.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.runtimeconfig.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ProjetoEventos.pdb
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Azure.Core.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Azure.Identity.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Humanizer.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Build.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\MySqlConnector.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.Common.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.ClientModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.CodeDom.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Memory.Data.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\scopedcss\bundle\ProjetoEventos.styles.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\scopedcss\projectbundle\ProjetoEventos.bundle.scp.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\7ol1y8332m-b9sayid5wm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\xddce5wzrt-61n19gt1b8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\8hdyc7mf87-xtxxf3hu2r.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\emz5xnie7l-bqjiyaj88i.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\ibs87x6m31-c2jlpeoesf.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\a2k4av75ef-erw9l3u2r3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\rvfimmu30v-aexeepp0ev.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\8k817c5b9m-d7shbmvgxk.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\k0b6th69nr-ausgxo2sd3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\2jtzp2mxw2-k8d9w2qqmf.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\tv2osqqz0m-cosvhxvwiu.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\w3j42ui3lh-ub07r2b239.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\wlpwh2u3zs-fvhpjtyr6v.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\qlut92rzyk-b7pk76d08c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\1651lrywj3-fsbi9cje9m.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\pdtgndicz6-rzd6atqjts.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\2dfm6dl3xd-ee0r1s7dh0.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\0yporskm7w-dxx9fxp4il.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\kxlvbqk9wo-jd9uben2k1.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\jqgqmyj8hj-khv3u5hwcm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\4snw5d1amh-r4e9w2rdcm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\5s97a7uyq1-lcd1t2u6c8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\vmmapamxj4-c2oey78nd0.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\5o152t66t4-tdbxkamptv.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\zuetcfo0mf-j5mq2jizvt.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\aatseuinhf-06098lyss8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\vg1azlamza-nvvlpmu67g.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\79vjj23qf8-s35ty4nyc5.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\j2de7hvgtz-pj5nd1wqec.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\t7vwu90i0l-46ein0sx1k.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\zmegl4k3jr-v0zj4ognzu.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\hjmmubwvqs-37tfw0ft22.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\rp80od5dj2-hrwsygsryq.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\n75turpvil-pk9g2wxc8p.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\0steuydsm1-ft3s53vfgj.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\afw0jkus2o-6cfz1n2cew.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\3d0g93k1jt-6pdc2jztkx.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\6fov9bba0v-493y06b0oq.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\sg0f4j0oeq-iovd86k7lj.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\70yjfg60s9-vr1egmr9el.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\qdyqh98djs-kbrnm935zg.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\406zttcdiz-jj8uyg4cgr.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\yjb9laa7w3-y7v9cxd14o.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\xbk5birgwu-notf2xhcfb.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\4qrehwm6sw-h1s4sie4z3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\gc2bf1oyik-63fj8s7r0e.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\eoi30555q6-0j3bgjxly4.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\watxmvpxwj-47otxtyo56.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\xhbat3gx4t-4v8eqarkd7.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\ecaw2di1w2-356vix0kms.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\q0wv8wewg7-83jwlth58m.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\f7fxfmk6dk-mrlpezrjn3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\q2or9lg6eq-lzl9nlhx6b.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\94tsi8cyt8-ag7o75518u.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\cyp63qx0y2-x0q3zqp4vz.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\rsp4hrv35l-0i3buxo5is.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\jofqzvf9h3-o1o13a6vjx.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\yhfr4mh7gf-ttgo8qnofa.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\ygidih4k7p-2z0ns9nrw6.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\hkvwmdd4mj-muycvpuwrr.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\6w7e2uvlxj-87fc7y1x7t.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\cxjug0pgfx-mlv21k5csn.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\v8qeruzo47-43f9slvm1c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\compressed\oodrosqo4m-43f9slvm1c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets.build.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets.development.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets\msbuild.ProjetoEventos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets\msbuild.ProjetoEventos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjetoEventos.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoEventos.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjetoEventos.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets.pack.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoE.2F146A6E.Up2Date
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\refint\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.pdb
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ProjetoEventos.genruntimeconfig.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\SistemaAcademico\obj\Debug\net9.0\ref\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\appsettings.Development.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\appsettings.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.staticwebassets.endpoints.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.staticwebassets.runtime.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.exe
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.deps.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.runtimeconfig.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.pdb
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Azure.Core.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Azure.Identity.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Humanizer.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Build.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\MySqlConnector.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.Common.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.ClientModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.CodeDom.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Memory.Data.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.csproj.AssemblyReference.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.AssemblyInfoInputs.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.AssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.csproj.CoreCompileInputs.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.MvcApplicationPartsAssemblyInfo.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.RazorAssemblyInfo.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.RazorAssemblyInfo.cs
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\scopedcss\bundle\ProjetoEventos.styles.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\scopedcss\projectbundle\ProjetoEventos.bundle.scp.css
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\7ol1y8332m-b9sayid5wm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\xddce5wzrt-61n19gt1b8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\8hdyc7mf87-xtxxf3hu2r.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\emz5xnie7l-bqjiyaj88i.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\ibs87x6m31-c2jlpeoesf.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\a2k4av75ef-erw9l3u2r3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\rvfimmu30v-aexeepp0ev.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\8k817c5b9m-d7shbmvgxk.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\k0b6th69nr-ausgxo2sd3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\2jtzp2mxw2-k8d9w2qqmf.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\tv2osqqz0m-cosvhxvwiu.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\w3j42ui3lh-ub07r2b239.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\wlpwh2u3zs-fvhpjtyr6v.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\qlut92rzyk-b7pk76d08c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\1651lrywj3-fsbi9cje9m.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\pdtgndicz6-rzd6atqjts.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\2dfm6dl3xd-ee0r1s7dh0.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\0yporskm7w-dxx9fxp4il.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\kxlvbqk9wo-jd9uben2k1.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\jqgqmyj8hj-khv3u5hwcm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\4snw5d1amh-r4e9w2rdcm.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\5s97a7uyq1-lcd1t2u6c8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\vmmapamxj4-c2oey78nd0.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\5o152t66t4-tdbxkamptv.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\zuetcfo0mf-j5mq2jizvt.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\aatseuinhf-06098lyss8.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\vg1azlamza-nvvlpmu67g.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\79vjj23qf8-s35ty4nyc5.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\j2de7hvgtz-pj5nd1wqec.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\t7vwu90i0l-46ein0sx1k.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\zmegl4k3jr-v0zj4ognzu.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\hjmmubwvqs-37tfw0ft22.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\rp80od5dj2-hrwsygsryq.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\n75turpvil-pk9g2wxc8p.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\0steuydsm1-ft3s53vfgj.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\afw0jkus2o-6cfz1n2cew.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\3d0g93k1jt-6pdc2jztkx.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\6fov9bba0v-493y06b0oq.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\sg0f4j0oeq-iovd86k7lj.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\70yjfg60s9-vr1egmr9el.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\qdyqh98djs-kbrnm935zg.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\406zttcdiz-jj8uyg4cgr.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\yjb9laa7w3-y7v9cxd14o.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\xbk5birgwu-notf2xhcfb.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\4qrehwm6sw-h1s4sie4z3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\gc2bf1oyik-63fj8s7r0e.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\eoi30555q6-0j3bgjxly4.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\watxmvpxwj-47otxtyo56.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\xhbat3gx4t-4v8eqarkd7.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\ecaw2di1w2-356vix0kms.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\q0wv8wewg7-83jwlth58m.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\f7fxfmk6dk-mrlpezrjn3.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\q2or9lg6eq-lzl9nlhx6b.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\94tsi8cyt8-ag7o75518u.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\cyp63qx0y2-x0q3zqp4vz.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\rsp4hrv35l-0i3buxo5is.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\jofqzvf9h3-o1o13a6vjx.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\yhfr4mh7gf-ttgo8qnofa.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\ygidih4k7p-2z0ns9nrw6.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\hkvwmdd4mj-muycvpuwrr.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\6w7e2uvlxj-87fc7y1x7t.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\cxjug0pgfx-mlv21k5csn.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\v8qeruzo47-43f9slvm1c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\compressed\oodrosqo4m-43f9slvm1c.gz
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets.build.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets.development.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets\msbuild.ProjetoEventos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets\msbuild.ProjetoEventos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjetoEventos.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoEventos.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjetoEventos.props
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets.pack.json
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoE.2F146A6E.Up2Date
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\refint\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.pdb
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.genruntimeconfig.cache
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\ref\ProjetoEventos.dll
+C:\FATEC\Desenvolvimento Web III\2026_1\Eventos\ProjetoEventos\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\appsettings.Development.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\appsettings.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.staticwebassets.runtime.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.staticwebassets.endpoints.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.exe
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.deps.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.runtimeconfig.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ProjetoEventos.pdb
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Azure.Core.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Azure.Identity.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Humanizer.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\MySqlConnector.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.Common.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.ClientModel.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.CodeDom.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.csproj.AssemblyReference.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.AssemblyInfoInputs.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.AssemblyInfo.cs
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.csproj.CoreCompileInputs.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.MvcApplicationPartsAssemblyInfo.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.RazorAssemblyInfo.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.RazorAssemblyInfo.cs
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.sourcelink.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\scopedcss\bundle\ProjetoEventos.styles.css
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\scopedcss\projectbundle\ProjetoEventos.bundle.scp.css
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\7ol1y8332m-b9sayid5wm.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\xddce5wzrt-61n19gt1b8.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\8hdyc7mf87-xtxxf3hu2r.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\emz5xnie7l-bqjiyaj88i.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\ibs87x6m31-c2jlpeoesf.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\a2k4av75ef-erw9l3u2r3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\rvfimmu30v-aexeepp0ev.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\8k817c5b9m-d7shbmvgxk.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\k0b6th69nr-ausgxo2sd3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\2jtzp2mxw2-k8d9w2qqmf.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\tv2osqqz0m-cosvhxvwiu.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\w3j42ui3lh-ub07r2b239.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\wlpwh2u3zs-fvhpjtyr6v.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\qlut92rzyk-b7pk76d08c.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\1651lrywj3-fsbi9cje9m.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\pdtgndicz6-rzd6atqjts.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\2dfm6dl3xd-ee0r1s7dh0.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\0yporskm7w-dxx9fxp4il.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\kxlvbqk9wo-jd9uben2k1.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\jqgqmyj8hj-khv3u5hwcm.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\4snw5d1amh-r4e9w2rdcm.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\5s97a7uyq1-lcd1t2u6c8.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\vmmapamxj4-c2oey78nd0.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\5o152t66t4-tdbxkamptv.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\zuetcfo0mf-j5mq2jizvt.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\aatseuinhf-06098lyss8.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\vg1azlamza-nvvlpmu67g.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\79vjj23qf8-s35ty4nyc5.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\j2de7hvgtz-pj5nd1wqec.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\t7vwu90i0l-46ein0sx1k.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\zmegl4k3jr-v0zj4ognzu.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\hjmmubwvqs-37tfw0ft22.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\rp80od5dj2-hrwsygsryq.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\n75turpvil-pk9g2wxc8p.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\0steuydsm1-ft3s53vfgj.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\afw0jkus2o-6cfz1n2cew.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\3d0g93k1jt-6pdc2jztkx.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\6fov9bba0v-493y06b0oq.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\sg0f4j0oeq-iovd86k7lj.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\70yjfg60s9-vr1egmr9el.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\qdyqh98djs-kbrnm935zg.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\406zttcdiz-jj8uyg4cgr.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\yjb9laa7w3-y7v9cxd14o.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\xbk5birgwu-notf2xhcfb.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\4qrehwm6sw-h1s4sie4z3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\gc2bf1oyik-63fj8s7r0e.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\eoi30555q6-0j3bgjxly4.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\watxmvpxwj-47otxtyo56.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\xhbat3gx4t-4v8eqarkd7.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\ecaw2di1w2-356vix0kms.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\q0wv8wewg7-83jwlth58m.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\f7fxfmk6dk-mrlpezrjn3.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\q2or9lg6eq-lzl9nlhx6b.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\94tsi8cyt8-ag7o75518u.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\cyp63qx0y2-x0q3zqp4vz.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\rsp4hrv35l-0i3buxo5is.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\jofqzvf9h3-o1o13a6vjx.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\yhfr4mh7gf-ttgo8qnofa.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\ygidih4k7p-2z0ns9nrw6.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\hkvwmdd4mj-muycvpuwrr.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\6w7e2uvlxj-87fc7y1x7t.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\cxjug0pgfx-mlv21k5csn.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\v8qeruzo47-s8b3ym4w8d.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\compressed\oodrosqo4m-s8b3ym4w8d.gz
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\staticwebassets.build.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\staticwebassets.development.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoE.2F146A6E.Up2Date
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\refint\ProjetoEventos.dll
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.pdb
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ProjetoEventos.genruntimeconfig.cache
+C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\obj\Debug\net9.0\ref\ProjetoEventos.dll

@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\",
+  "WorkspaceRootPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\viewmodel\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\viewmodel\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\viewmodel\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\viewmodel\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511018\\desenvolvimento_web_iii\\vasosinteligentes\\vasosinteligentes\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\data\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\data\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\data\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\data\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\models\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|c:\\fatec estudos\\desenvolvimento_web_iii\\projeto_vasosinteligentes\\vasosinteligentes\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900CD390-F51C-494C-8873-666374FAA3B3}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantasController.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Controllers\\PlantasController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\PlantasController.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Controllers\\PlantasController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\PlantasController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:16:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ResetPasswordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\ViewModel\\ResetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\ViewModel\\ResetPasswordViewModel.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\ViewModel\\ResetPasswordViewModel.cs",
-              "RelativeToolTip": "VasosInteligentes\\ViewModel\\ResetPasswordViewModel.cs",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T14:06:05.127Z",
+              "WhenOpened": "2026-05-02T17:16:13.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Models\\User.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Models\\User.cs",
-              "RelativeToolTip": "VasosInteligentes\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ContextMongoDb.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "RelativeToolTip": "VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T14:05:44.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "VasosInteligentes\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:52:26.866Z",
+              "WhenOpened": "2026-05-02T16:15:28.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "VasosInteligentes\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAA4wFwAAAArAAAAAAAAAA==",
+              "Title": "MongoSettings.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Data\\MongoSettings.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Data\\MongoSettings.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Data\\MongoSettings.cs",
+              "RelativeToolTip": "VasosInteligentes\\Data\\MongoSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:49:50.108Z"
+              "WhenOpened": "2026-05-02T16:15:10.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "VasosInteligentes\\Controllers\\HomeController.cs",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Program.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "RelativeToolTip": "VasosInteligentes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:40:27.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\appsettings.json",
+              "RelativeDocumentMoniker": "VasosInteligentes\\appsettings.json",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\appsettings.json",
+              "RelativeToolTip": "VasosInteligentes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T16:39:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Planta.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\Planta.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\Planta.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\Planta.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\Planta.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:45:27.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vaso.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\Vaso.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\Vaso.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\Vaso.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\Vaso.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:45:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\User.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\User.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\User.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:49:48.738Z"
+              "WhenOpened": "2026-05-02T16:45:28.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
-              "RelativeToolTip": "VasosInteligentes\\ViewModel\\EditUserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T13:48:25.996Z",
+              "WhenOpened": "2026-05-02T16:45:27.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:45:26.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Views\\Users\\Edit.cshtml",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\0201392511018\\desenvolvimento_web_III\\VasosInteligentes\\VasosInteligentes\\Views\\Users\\Edit.cshtml",
-              "RelativeToolTip": "VasosInteligentes\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T13:47:57.576Z"
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Data\\FakeContext.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Data\\FakeContext.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Data\\FakeContext.cs",
+              "RelativeToolTip": "VasosInteligentes\\Data\\FakeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:15:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:45:26.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Fatec Estudos\\desenvolvimento_web_III\\projeto_VasosInteligentes\\VasosInteligentes\\Services\\EmailService.cs",
+              "RelativeToolTip": "VasosInteligentes\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:40:37.842Z",
+              "EditorCaption": ""
             }
           ]
         }

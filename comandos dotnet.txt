@@ -101,6 +101,11 @@ dotnet aspnet-codegenerator controller -name [NOMECONTROLLER] -m [NOME-DA-MODEL]
 
 dotnet nuget locals all --clear 
 
+# para detectar algum erro
+
+dotnet clean
+dotnet restore
+dotnet build
 
 # reinstalar 
 

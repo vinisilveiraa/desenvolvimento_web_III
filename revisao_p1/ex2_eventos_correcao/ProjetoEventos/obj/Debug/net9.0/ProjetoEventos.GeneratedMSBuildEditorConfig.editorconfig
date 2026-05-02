@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetoEventos
+build_property.RootNamespace = ProjetoEventos
+build_property.ProjectDir = C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Fatec Estudos\desenvolvimento_web_III\revisao_p1\ex2_eventos_correcao\ProjetoEventos
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Eventos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Eventos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Eventos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Eventos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Eventos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Patrocinadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Patrocinadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Patrocinadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Patrocinadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Patrocinadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Tipos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Tipos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Tipos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Tipos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Tipos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Fatec Estudos/desenvolvimento_web_III/revisao_p1/ex2_eventos_correcao/ProjetoEventos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-65t0puuf9u
