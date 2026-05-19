@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VasosInteligentes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e02a2331040518dcab1c43f98afce799296f7b87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368c4818294875b2623a99ea7fbc1c5cbad85e7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VasosInteligentes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VasosInteligentes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

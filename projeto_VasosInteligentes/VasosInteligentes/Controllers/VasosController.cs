@@ -63,31 +63,37 @@ namespace VasosInteligentes.Controllers
         [Authorize(Roles = "Usuario")]
         public async Task<IActionResult> MeusVasos()
         {
+            var user = await _userManager.GetUserAsync(User);
 
-            var pipeline = new BsonDocument[] {
-            // criar campos temporarios sera usado na conversao de object para string
-            new BsonDocument("$addFields", new BsonDocument
+            if (user == null)
+            { //                         Metodo, Controller
+                return RedirectToAction("Login", "Accounts");
+            }
+
+            var vasos = await _context.Vaso.Find(v => v.UsuarioId == user.Id).ToListAsync();
+
+            foreach (var vaso in vasos)
             {
-                {"PlantaIdObj", new BsonDocument("$toObjectId", "$PlantaId") }
-            }),
+                var ultimaLeitura = await _context.LeituraSensor
+                    .Find(l => l.VasoId == vaso.Id)
+                    .SortByDescending(l => l.DataLeitura)
+                    .FirstOrDefaultAsync();
 
-            // faz o join usando campo convertido
-            new BsonDocument("$lookup", new  BsonDocument
-            {
-                {"from", "Planta" },
-                {"localField", "PlantaIdObj" },
-                {"foreignField", "_id" },
-                {"as", "PlantaList" }
-            }),
+                vaso.UltimaLeitura = ultimaLeitura;
 
-            // remover campos extras para nao "quebrar" o c#
-            new BsonDocument("$project", new BsonDocument
-            {
-                {"PlantaIdObj", 0 },
-            })
-            };
+                if (!string.IsNullOrEmpty(vaso.PlantaId))
+                {
+                    var planta = await _context.Planta
+                        .Find(p => p.Id == vaso.PlantaId)
+                        .FirstOrDefaultAsync();
 
-            var result = await _context.Vaso.Aggregate<Vaso>(pipeline).ToListAsync();
+                    if (planta != null)
+                    {
+                        vaso.PlantaList = new List<Planta> { planta };
+                    }
+                }
+            }
+
             return View(result);
 
         } // metodo
@@ -139,7 +145,6 @@ namespace VasosInteligentes.Controllers
 
             var vaso = await _context.Vaso.Aggregate<Vaso>(pipeline).FirstOrDefaultAsync();
             return View(vaso);
-
         }
 
         [Authorize(Roles = "Usuario")]

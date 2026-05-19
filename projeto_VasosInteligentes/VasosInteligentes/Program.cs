@@ -47,7 +47,8 @@ builder.Services.AddRazorPages();
 //configuracao envio de email
 builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
 builder.Services.AddSingleton<EmailService>();
-
+//simulador
+builder.Services.AddHostedService<SensorBackgroundService>();
 
 var app = builder.Build();
 
