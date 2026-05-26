@@ -17,5 +17,7 @@ namespace VasosInteligentes.Models
         public string? UsuarioId { get; set; }
 
         public List<Planta> PlantaRelacionada { get; set; } = new List<Planta>();
+
+        public LeituraSensor? UltimaLeitura { get; set; }
     }
 }
