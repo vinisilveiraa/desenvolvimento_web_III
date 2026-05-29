@@ -1,0 +1,42 @@
+﻿@model ex1.Models.Avaliacao;
+
+@{
+	ViewData["Title"] = "Insert";
+}
+
+<h1>Nova Clínica</h1>
+
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Review">
+			<div class="form-group">
+				<label asp-for="Nota" class="control-label"></label>
+				<input asp-for="Nota" type="number" class="form-control" />
+				<span asp-validation-for="Nota" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Comentario" class="control-label"></label>
+				<input asp-for="Comentario" class="form-control" />
+				<span asp-validation-for="Comentario" class="text-danger"></span>
+			</div>
+
+			<div class="form-group d-flex gap-2 mt-4">
+				<input type="submit" value="Salvar" class="btn btn-primary w-100" />
+				<a class="btn btn-secondary w-100" asp-controller="Home" asp-action="Index">Cancelar</a>
+			</div>
+		</form>
+	</div>
+</div>
+
+
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
+
+
+
+

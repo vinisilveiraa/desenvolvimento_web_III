@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511018\\Desktop\\Vinicius_Silveira-p1_dw\\vinicius_prova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D149D8B8-B629-427F-AE9F-E2FA3E8B1AD8}|ex1\\ex1.csproj|c:\\users\\0201392511018\\desktop\\vinicius_silveira-p1_dw\\vinicius_prova\\ex1\\views\\trabalhos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D149D8B8-B629-427F-AE9F-E2FA3E8B1AD8}|ex1\\ex1.csproj|solutionrelative:ex1\\views\\trabalhos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511018\\Desktop\\Vinicius_Silveira-p1_dw\\vinicius_prova\\ex1\\Views\\Trabalhos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ex1\\Views\\Trabalhos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0201392511018\\Desktop\\Vinicius_Silveira-p1_dw\\vinicius_prova\\ex1\\Views\\Trabalhos\\Index.cshtml",
+              "RelativeToolTip": "ex1\\Views\\Trabalhos\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T15:35:27.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

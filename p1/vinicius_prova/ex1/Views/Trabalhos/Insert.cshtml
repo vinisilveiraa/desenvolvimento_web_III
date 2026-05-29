@@ -1,0 +1,57 @@
+﻿@model ex1.Models.Trabalho;
+
+@{
+	ViewData["Title"] = "Insert";
+}
+
+<h1>Nova Clínica</h1>
+
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Insert">
+			<div class="form-group">
+				<label asp-for="Titulo" class="control-label"></label>
+				<input asp-for="Titulo" class="form-control" />
+				<span asp-validation-for="Titulo" class="text-danger"></span>
+			</div>			
+			<div class="form-group">
+				<label asp-for="Resumo" class="control-label"></label>
+				<input asp-for="Resumo" class="form-control" />
+				<span asp-validation-for="Resumo" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="AreaTematica" class="control-label"></label>
+				<input asp-for="AreaTematica" class="form-control" />
+				<span asp-validation-for="AreaTematica" class="text-danger"></span>
+			</div>
+
+			<span>Autores</span>
+			<div class="form-group">
+				<label asp-for="AutorNome" class="control-label"></label>
+				<input asp-for="AutorNome" class="form-control" />
+				<span asp-validation-for="AutorNome" class="text-danger"></span>
+				<label asp-for="AutorEmail" class="control-label"></label>
+				<input asp-for="AutorEmail" class="form-control" />
+				<span asp-validation-for="AutorEmail" class="text-danger"></span>
+			</div>
+
+			<div class="form-group d-flex gap-2 mt-4">
+				<input type="submit" value="Salvar" class="btn btn-primary w-100" />
+				<a class="btn btn-secondary w-100" asp-controller="Home" asp-action="Index">Cancelar</a>
+			</div>
+		</form>
+	</div>
+</div>
+
+
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
+
+
+
+

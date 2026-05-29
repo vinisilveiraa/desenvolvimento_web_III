@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ex1.Models.Trabalho>
+
+@{
+	ViewData["Title"] = "";
+}
+
+<h1>Trabalhos</h1>
+
+<p>
+	<a asp-controller="Trabalhos" asp-action="Insert" class="btn btn-primary">Criar Novo Trabalho</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Titulo)
+			</th>
+
+			<th>
+				@Html.DisplayNameFor(model => model.Resumo)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.AreaTematica)
+			</th>
+			@* <th> *@
+			@* 	@Html.DisplayNameFor(model => model.DataSubmissao) *@
+			@* </th> *@
+
+			<th>Ação</th>
+
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<th>
+					@Html.DisplayFor(modelItem => item.Titulo)
+				</th>
+
+				<th>
+					@Html.DisplayFor(modelItem => item.Resumo)
+				</th>
+				<th>
+					@Html.DisplayFor(modelItem => item.AreaTematica)
+				</th>
+				<th>
+					@Html.DisplayFor(modelItem => item.DataSubmissao)
+				</th>
+
+				<td>
+					<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+					<a asp-action="Review" asp-route-id="@item.Id">Avaliar</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+
