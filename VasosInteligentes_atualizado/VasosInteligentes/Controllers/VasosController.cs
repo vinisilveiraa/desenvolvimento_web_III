@@ -279,7 +279,7 @@ namespace VasosInteligentes.Controllers
 
 
         [Authorize(Roles = "Usuario")]
-        public async Task<IActionResult> Dashboard()
+        public async Task<IActionResult> Dashboard(string filter = "diario")
         {
             // pegar os vasos
             var user = await _userManager.GetUserAsync(User);
@@ -294,8 +294,11 @@ namespace VasosInteligentes.Controllers
             {
                 // pega as leituras do dia
                 var leituras = await _context.LeituraSensor.Find(v => v.VasoId == vaso.Id).ToListAsync();
-                leituras = leituras.Where(l => l.DataLeitura.Date == hoje).ToList();
-                // esse aqui n e ToListAsync pq ja n ta mais dentro do mongo ^
+                if (filter == "diario")
+                {
+                    leituras = leituras.Where(l => l.DataLeitura.Date == hoje).ToList();
+                    // esse aqui n e ToListAsync pq ja n ta mais dentro do mongo ^
+                }
 
                 // separa por periodo e tira as media
                 var manha = leituras
@@ -303,8 +306,7 @@ namespace VasosInteligentes.Controllers
                 var tarde = leituras
                     .Where(l => l.DataLeitura.Hour >= 12 && l.DataLeitura.Hour < 18);
                 var noite = leituras
-                    .Where(l => l.DataLeitura.Hour >= 18);
-                // noite ate as 18 pq ja tamo pegando por dia
+                    .Where(l => l.DataLeitura.Hour >= 18 && l.DataLeitura.Hour < 24);
 
                 var mediaManha = manha.Any()
                     ? manha.Average(x => x.Luminosidade) : 0;
@@ -322,6 +324,8 @@ namespace VasosInteligentes.Controllers
                     MediaNoite = mediaNoite,
                 });
             }
+
+            ViewBag.filter = filter;
 
             return View(resultado);
         }

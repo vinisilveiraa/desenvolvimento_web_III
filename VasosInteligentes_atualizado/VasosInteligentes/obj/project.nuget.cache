@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yKmQz9HSv/0=",
+  "dgSpecHash": "fVaaWpYurqc=",
   "success": true,
-  "projectFilePath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj",
+  "projectFilePath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinik\\.nuget\\packages\\aspnetcore.identity.mongodbcore\\7.0.0\\aspnetcore.identity.mongodbcore.7.0.0.nupkg.sha512",
     "C:\\Users\\vinik\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
@@ -164,9 +164,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "O pacote 'MailKit' 4.15.1 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-9j88-vvj5-vhgr",
-      "projectPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj",
+      "projectPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj",
+      "filePath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj",
       "libraryId": "MailKit",
       "targetGraphs": [
         "net9.0"

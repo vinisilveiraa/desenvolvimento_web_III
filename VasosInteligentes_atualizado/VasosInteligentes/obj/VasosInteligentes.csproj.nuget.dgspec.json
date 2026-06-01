@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj": {}
+    "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj": {}
   },
   "projects": {
-    "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj": {
+    "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj",
+        "projectUniqueName": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj",
         "projectName": "VasosInteligentes",
-        "projectPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\VasosInteligentes.csproj",
+        "projectPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\VasosInteligentes.csproj",
         "packagesPath": "C:\\Users\\vinik\\.nuget\\packages\\",
-        "outputPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_Vania\\VasosInteligentes\\obj\\",
+        "outputPath": "C:\\Fatec Estudos\\desenvolvimento_web_III\\VasosInteligentes_atualizado\\VasosInteligentes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
